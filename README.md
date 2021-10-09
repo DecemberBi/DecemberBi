@@ -21,4 +21,4 @@ About
 
 🌱 I've worked, but I'm still learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DecemberBi&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry" alt="DecemberBi's github stats"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DecemberBi&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry" alt="DecemberBi's github stats"/>
