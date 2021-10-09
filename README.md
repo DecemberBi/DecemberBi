@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm DecemberBi, from china, thank you very much for visiting my home page.
+
+About
+⚙ I use: .java, .kt, .py, ...
+
+🌱 I've worked, but I'm still learning
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DecemberBi&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true&theme=blueberry" alt="DecemberBi's github stats"/>
